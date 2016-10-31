@@ -4,7 +4,7 @@ module.exports = function getQueryParam (param, url) {
 	}
 
 	const search = url ? url : location.search.slice(1);
-	const params = new URLSearchParams(url);
+	const params = new URLSearchParams(search);
 
 	return params.get(param);
 };
