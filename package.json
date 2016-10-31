@@ -1,0 +1,11 @@
+{
+  "name": "get-query-param",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": {
+    "url": "https://github.com/bellmounte/get-query-param",
+    "type": "git"
+  },
+  "author": "Ryan D'Acquisto <ryandacquisto@gmail.com>",
+  "license": "MIT"
+}
